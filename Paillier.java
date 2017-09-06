@@ -1,5 +1,5 @@
 
-//http://www.csee.umbc.edu/~kunliu1/research/Paillier.html
+//http://www.csee.umbc.edu/~kunliu1/research/Paillier.html- Modified to fit client and server needs
 import java.math.*;
 import java.util.*;
 
